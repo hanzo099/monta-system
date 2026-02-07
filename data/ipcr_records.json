@@ -1,0 +1,19 @@
+[
+    {
+        "raw": {
+            "Q": "85%",
+            "E": "Very Satisfactory",
+            "T": "on time",
+            "captured_at": "2026-02-01T05:30:39+01:00"
+        },
+        "ratings": {
+            "Q": 4,
+            "E": 4,
+            "T": 5
+        },
+        "final_rating": 4.33,
+        "narrative": "Completed task with Quality: 85%; Effectiveness: Very Satisfactory; Timeliness: on time.",
+        "id": 1,
+        "stored_at": "2026-02-01T05:30:39+01:00"
+    }
+]
